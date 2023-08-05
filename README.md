@@ -43,18 +43,18 @@ Here are some ideas to get you started:
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
-      <img width="30" src="gmail.svg">
+    <a href = "mailto: nzolafifi@gmail.com">
+      <img width="30" src="https://github.com/nfifi/nfifi/assets/82395796/c6caa2d0-f063-4584-ba9c-addede502587">
     </a>
     <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
+ <!--   <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
       <img width="35" src="youtube.svg">
     </a>
     <a href = "https://www.instagram.com/devparadev/">
       <img width="25" src="instagram.png">
-    </a>
+    </a>  -->
 </div>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
