@@ -46,7 +46,7 @@ Here are some ideas to get you started:
     <a href = "mailto: nzolafifi@gmail.com">
       <img width="30" src="https://github.com/nfifi/nfifi/assets/82395796/c6caa2d0-f063-4584-ba9c-addede502587">
     </a>
-    <a href = "https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/">
+    <a href = "https://www.linkedin.com/in/nzolafifi">
       <img width="25" src="https://github.com/nfifi/nfifi/assets/82395796/b603e6a8-15bf-4a0b-8a15-62d01e325b15">
     </a>
  <!--   <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
